@@ -1,3 +1,5 @@
+[![](https://img.shields.io/badge/DOI-10.1109/IECBES.2012.6498148-blue)](https://doi.org/10.1109/IECBES.2012.6498148)
+
 # Development of a MATLAB-based Toolbox (Graphical User Interfaces) for Elastogram Image and RF Ultrasound Signal Processing
 ![](/ppt/ElastoLab.gif)
 
@@ -22,5 +24,5 @@
 ![Slide18](/ppt/Slide18.PNG)
 
 # How to cite
-* F. Afdideh, “Development of a MATLAB-based Toolbox (Graphical User Interfaces) for Elastogram Image and RF Ultrasound Signal Processing,” to be published.
-* F. Afdideh, R. Khasheei Rad, S. N. Resalat, E. Sabeti, “A Novel Local Spline Smoothing-Based Approach for Medical Ultrasound Images Enhancement,” IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES), pp. 755-758, Dec. 2012.
+* **F. Afdideh**, “Development of a MATLAB-based Toolbox (Graphical User Interfaces) for Elastogram Image and RF Ultrasound Signal Processing,” to be published.
+* **F. Afdideh**, R. Khasheei Rad, S. N. Resalat, E. Sabeti, “A Novel Local Spline Smoothing-Based Approach for Medical Ultrasound Images Enhancement,” IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES), pp. 755-758, Dec. 2012, doi: 10.1109/IECBES.2012.6498148.
